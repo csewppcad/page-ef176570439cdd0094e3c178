@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e5dd64cede72ccf890b1f2fa",
+  "owner": "csewppcad",
+  "repo": "page-ef176570439cdd0094e3c178",
+  "title": "云安快连",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ef176570439cdd0094e3c178",
+      "a": "云安快连",
+      "b": "稳定全球clash加速器",
+      "entity": "云安快连",
+      "brand": "云安快连",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "86a7d41ed2bc47e69866bf5a2d51d8c8f51fcf94cbd69800708bb64df61b25a4",
+      "content": {
+        "primary_entity": "云安快连",
+        "keyword1": "云安快连",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配的 Clash 客户端，依照客户端文档导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅导入",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选择云安快连套餐，导入订阅后即可连接使用。",
+          "AI_CLOSING_TITLE": "选套餐，连全球",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应 3 台、5 台与 20 台设备同时在线，月流量从 100GB 到 1000GB。旗舰版配备 IPLC 专线优化游戏加速与原生流媒体解锁，团队版支持企业定制路由。按年付可节省两个月费用，适合依设备规模与流量需求灵活选择。",
+          "AI_FEATURES_INTRO": "从套餐梯度、设备数量到计费周期，三方面帮你快速对照云安快连的订阅选择。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，对应 3 台、5 台与 20 台设备，按实际用量挑选。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速与原生流媒体解锁，团队版提供 VIP 高带宽节点与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付分别仅需 ¥150、¥350 与 ¥850，适合长期稳定使用，减少续费操作。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "设备与权益匹配",
+          "AI_FEATURE_TITLE_3": "年付更省心",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配要求、按客户端文档配置订阅，三步开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "云安快连提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备同时在线，月流量从 100GB 到 1000GB。旗舰版搭载 IPLC 专线优化游戏加速与流媒体解锁，团队版支持企业定制路由与专属客户经理。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配不同设备规模",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合单人或小流量使用，旗舰版适合游戏与流媒体需求，团队版适合多设备团队。月付灵活，年付分别 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "参考月流量与同时在线设备数量，在基础版、旗舰版与团队版之间确定订阅。",
+          "AI_STEP_TEXT_2": "确认所用设备系统是否在对应客户端的适配范围内，准备导入订阅。",
+          "AI_STEP_TEXT_3": "依 Clash 客户端文档添加订阅链接，更新节点后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云安快连 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。可按日常流量和设备数量选择。",
+          "AI_FAQ_ANSWER_2": "可以。云安快连支持 Windows、macOS、Android 和 iOS 客户端，导入订阅后即可使用。路由器等设备请参考插件配置说明。",
+          "AI_FAQ_ANSWER_3": "年付方案比按月支付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，均可使用完整订阅周期。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合对视频清晰度和游戏延迟有要求的用户；基础版可解锁基础流媒体。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由和 20 台设备同时在线，并提供专属客户经理服务，适合需要统一管理多台终端的小型团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "云安快连支持哪些客户端设备？",
+          "AI_FAQ_QUESTION_3": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版适合什么样的使用场景？",
+          "AI_FAQ_QUESTION_5": "团队版适合几个人一起用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tzzudzb.cn",
+    "host": "tzzudzb.cn"
+  },
+  "file_hashes": {
+    "index.html": "e9e7cf6d495752abeba049fec12f455d8d33abf37011d7fc8f0fd632db7e8acf",
+    "sitemap.xml": "e5026a29d78f1c10dc88e67960fe747d21fc2110bd887adba666710d5bf0ae4b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ae70c1e2a6d8e53f17858dbe77543e176d09fadfbb3157cbd3a753e51e0663a7",
+    "robots.txt": "f4ad55e9ffda69ff08d694fca61430c1adc3d5aa20beb24773c8da20c26ecaf6",
+    "f00a35bcfc686517764337f2d842dd40.txt": "bb113a9f83dd9fe38ef0e68ed6bd1a6bbdc22e8a817aa7b63f489531150122fb"
+  },
+  "revision": "2838ddb0b62293558e5d68527d4e18e9e959847b2b7ecb309cf457343488d9d8"
+}
